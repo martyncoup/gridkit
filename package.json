@@ -1,0 +1,22 @@
+{
+  "name": "@martyncoup/gridkit",
+  "version": "1.0.0",
+  "description": "Plain and simple to use grid system for CSS.",
+  "main": "gridkit.scss",
+  "scripts": {
+    "build": "sass gridkit.scss dist/gridkit.min.css --style=compressed"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/martyncoup/gridkit.git"
+  },
+  "author": "Martyn Coupland",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/martyncoup/gridkit/issues"
+  },
+  "homepage": "https://github.com/martyncoup/gridkit#readme",
+  "devDependencies": {
+    "sass": "^1.89.2"
+  }
+}

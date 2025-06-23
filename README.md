@@ -1,4 +1,4 @@
-# GridFlow 🌊
+# GridKit
 
 > A modern, lightweight, and responsive 12-column CSS Grid system built with mobile-first design principles.
 

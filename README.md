@@ -25,11 +25,11 @@ npm install @martyncoup/gridkit
 
 ### CDN
 ```html
-<link rel="stylesheet" href="path/to/gridflow.css">
+<link rel="stylesheet" href="path/to/gridkit.css">
 ```
 
 ### Download
-Simply download the `gridflow.css` file and include it in your project.
+Simply download the `gridkit.css` file and include it in your project.
 
 ## 🎯 Breakpoints
 
@@ -194,7 +194,7 @@ Simply download the `gridflow.css` file and include it in your project.
   <!-- Hero Section -->
   <div class="row gap-lg">
     <div class="col-12">
-      <h1>Welcome to GridFlow</h1>
+      <h1>Welcome to GridKit</h1>
     </div>
   </div>
   
@@ -265,18 +265,6 @@ Simply download the `gridflow.css` file and include it in your project.
 
 ## 🎨 Customization
 
-### 🔧 CSS Custom Properties
-
-You can easily customize GridFlow by overriding CSS custom properties:
-
-```css
-:root {
-  --gridflow-gap: 20px;
-  --gridflow-container-padding: 20px;
-  --gridflow-max-width: 1400px;
-}
-```
-
 ### 🎯 Custom Breakpoints
 
 To add custom breakpoints, simply extend the CSS:
@@ -291,7 +279,7 @@ To add custom breakpoints, simply extend the CSS:
 
 ## 🌟 Browser Support
 
-GridFlow works in all modern browsers that support CSS Grid:
+GridKit works in all modern browsers that support CSS Grid:
 
 - ✅ Chrome 57+
 - ✅ Firefox 52+
@@ -310,18 +298,18 @@ We welcome contributions! Here's how you can help:
 
 ## 📄 License
 
-GridFlow is released under the MIT License. See LICENSE file for details.
+GridKit is released under the MIT License. See LICENSE file for details.
 
 ## 🙋‍♀️ FAQ
 
-**Q: How is GridFlow different from Bootstrap?**
-A: GridFlow uses modern CSS Grid instead of flexbox, providing more precise control over layouts with cleaner markup.
+**Q: How is GridKit different from Bootstrap?**
+A: GridKit uses modern CSS Grid instead of flexbox, providing more precise control over layouts with cleaner markup.
 
-**Q: Can I use GridFlow with other CSS frameworks?**
-A: Absolutely! GridFlow is designed to work alongside other frameworks without conflicts.
+**Q: Can I use GridKit with other CSS frameworks?**
+A: Absolutely! GridKit is designed to work alongside other frameworks without conflicts.
 
-**Q: Is GridFlow production-ready?**
-A: Yes! GridFlow is thoroughly tested and ready for production use.
+**Q: Is GridKit production-ready?**
+A: Yes! GridKit is thoroughly tested and ready for production use.
 
 **Q: How small is the file size?**
 A: The minified CSS file is approximately 15KB, making it lightweight and fast-loading.
@@ -332,6 +320,6 @@ A: The minified CSS file is approximately 15KB, making it lightweight and fast-l
 
 Made with ❤️ by developers, for developers
 
-[⭐ Star us on GitHub](https://github.com/martyncoup/gridflow) | [🐛 Report Bug](https://github.com/martyncoup/gridflow/issues) | [💡 Request Feature](https://github.com/martyncoup/gridflow/issues)
+[⭐ Star us on GitHub](https://github.com/martyncoup/gridkit) | [🐛 Report Bug](https://github.com/martyncoup/gridkit/issues) | [💡 Request Feature](https://github.com/martyncoup/gridkit/issues)
 
 </div>

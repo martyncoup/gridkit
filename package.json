@@ -1,6 +1,6 @@
 {
   "name": "@martyncoup/gridkit",
-  "version": "1.0.2",
+  "version": "1.1.0",
   "description": "Plain and simple to use grid system for CSS.",
   "main": "gridkit.scss",
   "scripts": {

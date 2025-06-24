@@ -22,10 +22,15 @@
 ```cli
 npm install @martyncoup/gridkit
 ```
+Within your SCSS files, you can then just reference the package with an import command.
+
+```scss
+@import "@martyncoup/gridkit";
+```
 
 ### CDN
 ```html
-<link rel="stylesheet" href="path/to/gridkit.css">
+<link href="https://cdn.jsdelivr.net/npm/@martyncoup/gridkit@latest/dist/gridkit.min.css" rel="stylesheet" crossorigin="anonymous" integrity="sha384-0I0i7e0ZoIN89gHNUv6CY3YHfZcPy3Il+13FufiTV5BK+tFdxuK/H8F6/dU3l+is">
 ```
 
 ### Download
